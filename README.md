@@ -1,7 +1,7 @@
 ## Hi there I'm Daniele Palomba👋
 
 I'm a computer science undergraduate student at the University of Salerno. My journey in the world of programming has been driven by a keen interest in machine learning and computer vision. Currently pursuing a Bachelor's degree, I have developed good skills in these domains.
-[gif](img/code.gif)
+![gif](img/code.gif)
 
 ---
 ## About me
