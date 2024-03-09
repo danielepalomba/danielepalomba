@@ -45,7 +45,7 @@
 ---
 
 ### Connect with me 🤖✨
-
+Visit my website: <a href="https://danielepalomba.github.io/">Click here</a>
 <a href="https://www.linkedin.com/in/daniele-palomba-4556222b9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6fAg55wVTT6fcRdUZmvwsg%3D%3D"><img class = "big-hover" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:d.palomba5@studenti.unisa.it"><img class = "big-hover" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/_danielepalomba_/"><img class = "big-hover" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
