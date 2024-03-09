@@ -1,9 +1,9 @@
 ## Hi there I'm Daniele Palomba👋
 
-I'm a computer science undergraduate student at the University of Salerno. My journey in the world of programming has been driven by a keen interest in machine learning and computer vision. Currently pursuing a Bachelor's degree, I have developed good skills in these domains.
-![gif](img/code.gif)
+**I'm a computer science undergraduate student at the University of Salerno. My journey in the world of programming has been driven by a keen interest in machine learning and computer vision. Currently pursuing a Bachelor's degree, I have developed good skills in these domains.**
 
 ---
+
 ## About me
 💡 **My passion lies in exploring the realms of artificial intelligence, with a focus on its applications in healthcare and human well-being.**
 
