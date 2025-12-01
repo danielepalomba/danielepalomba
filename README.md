@@ -14,7 +14,7 @@
 
 ## Some of my technical knowledge 👨‍💻
 
-#### Some Languages:
+#### Languages:
 
 <div align="center">
 
